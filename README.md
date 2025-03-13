@@ -1,2 +1,2 @@
 # integrative-epigenetic-transcriptomic-aging
-For publica
+Code for all the analyses and generating the plots for the "Integrative epigenetics and transcriptomics identify aging genes in human blood" Manuscript 
